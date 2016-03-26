@@ -1,0 +1,1 @@
+Mudei o editor do git do nano para o vim. Vamos ver se funcionará.
